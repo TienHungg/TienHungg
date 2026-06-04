@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1500x500/121212/F97316?text=Cover+Banner+Placeholder" alt="Cover Banner Placeholder" width="100%" />
+  <img src="./assets/cover-banner.svg" alt="Tien Hung Cover Banner" width="100%" />
 </div>
 
 <!-- TODO: Ensure the final design has geometric patterns on the left, and the logo + the exact slogan Architecting Scalable Ecosystems & AI-Driven Workflows on the right. STRICT RULE: Do not use quotation marks around the slogan. -->
@@ -8,7 +8,7 @@
   <h1>TIEN HUNG</h1>
   <p>Senior Full-Stack Developer & Software Architect</p>
   <a href="https://tienhungsoftware.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1200&color=F97316&center=true&vCenter=true&width=980&lines=Senior+Full-Stack+Developer+%26+Architect;Building+scalable+ecosystems;Automating+workflows+with+AI;Minimalist+but+Premium" alt="Typing Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1200&color=F97316&center=true&vCenter=true&width=980&repeat=true&lines=Senior+Full-Stack+Developer+%26+Architect&lines=Building+scalable+ecosystems&lines=Automating+workflows+with+AI&lines=Minimalist+but+Premium" alt="Typing Headline" />
   </a>
 </div>
 
@@ -17,6 +17,9 @@
 <div align="center">
   <a href="https://tienhungsoftware.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=F97316" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/TienHungg">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=F97316" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Architecture%20First-000000?style=for-the-badge&logo=databricks&logoColor=F97316" alt="Architecture First" />
   <img src="https://img.shields.io/badge/AI%20Workflow%20Automation-000000?style=for-the-badge&logo=openai&logoColor=F97316" alt="AI Workflow Automation" />
@@ -62,15 +65,15 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=TienHungg&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=F97316&icon_color=F97316&text_color=A3A3A3&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TienHungg&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=F97316&icon_color=F97316&text_color=A3A3A3&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TienHungg&layout=compact&langs_count=8&theme=transparent&title_color=F97316&text_color=A3A3A3&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TienHungg&layout=compact&langs_count=8&theme=transparent&title_color=F97316&text_color=A3A3A3&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TienHungg&theme=transparent&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=A3A3A3&dates=A3A3A3&sideNums=A3A3A3&currStreakNum=F97316" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=TienHungg&theme=dark&hide_border=true&background=00000000&stroke=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=A3A3A3&dates=A3A3A3&sideNums=A3A3A3&currStreakNum=F97316" alt="GitHub Streak" />
 </div>
